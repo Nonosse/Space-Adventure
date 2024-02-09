@@ -1,0 +1,4 @@
+repository "Space Exploration@NonosseTemp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
